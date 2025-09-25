@@ -28,7 +28,7 @@ Python 3.8+
 Python modules:
 
 
-``` pip install requests colorama ```
+``` pkg install python -y pip install requests colorama ```
 
 
 ---
