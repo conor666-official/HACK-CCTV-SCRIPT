@@ -38,7 +38,9 @@ Python modules:
 Clone the repository:
 
 ``` git clone https://github.com/conor666-official/HACK-CCTV-SCRIPT.git```
+
 RUN THE SCRIPT
+
 ```cd HACK-CCTV-SCRIPT ```
 ```python3 hack_camera.py ```
 
